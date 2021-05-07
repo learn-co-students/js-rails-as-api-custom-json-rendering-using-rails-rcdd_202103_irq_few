@@ -7,7 +7,7 @@
 
 ## Introduction
 
-By using `render json:` in our Rails controller, we can take entire models or
+By using `render json:` in our Rails controller we can take entire models or
 even collections of models, have Rails convert them to JSON, and send them out
 on request. We already have the makings of a basic API. In this lesson, we're
 going to look at shaping that data that gets converted to JSON and making it more
