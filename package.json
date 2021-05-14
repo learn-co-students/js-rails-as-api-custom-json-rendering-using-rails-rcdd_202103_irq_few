@@ -1,5 +1,29 @@
-{
-  "name": "bird_watcher",
-  "private": true,
-  "dependencies": {}
+{[
+  "id": 2,
+  "name": "Grackle",
+  "species": "Quiscalus Quiscula",
+  "created_at": "2019-05-09T21:51:41.543Z",
+  "updated_at": "2019-05-09T21:51:41.543Z"
+  ],[
+  {
+    "id": 1,
+    "name": "Black-Capped Chickadee",
+    "species": "Poecile Atricapillus"
+  },
+  {
+    "id": 2,
+    "name": "Grackle",
+    "species": "Quiscalus Quiscula"
+  },
+  {
+    "id": 3,
+    "name": "Common Starling",
+    "species": "Sturnus Vulgaris"
+  },
+  {
+    "id": 4,
+    "name": "Mourning Dove",
+    "species": "Zenaida Macroura"
+  }
+]
 }
