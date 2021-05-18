@@ -34,7 +34,6 @@ Rails.application.routes.draw do
   get '/birds/:id' => 'birds#show' # new
 end
 ```
-
 Then we could add an additional action:
 
 ```ruby
