@@ -34,7 +34,6 @@ Rails.application.routes.draw do
   get '/birds/:id' => 'birds#show' # new
 end
 ```
-
 Then we could add an additional action:
 
 ```ruby
@@ -50,7 +49,6 @@ class BirdsController < ApplicationController
   end
 end
 ```
-
 > **Reminder:** No need for instance variables anymore, since we're immediately
 > rendering `birds` and `bird` to JSON and are not going to be using ERB.
 
