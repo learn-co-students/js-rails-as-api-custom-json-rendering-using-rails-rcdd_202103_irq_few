@@ -51,6 +51,7 @@ class BirdsController < ApplicationController
 end
 ```
 
+
 > **Reminder:** No need for instance variables anymore, since we're immediately
 > rendering `birds` and `bird` to JSON and are not going to be using ERB.
 
